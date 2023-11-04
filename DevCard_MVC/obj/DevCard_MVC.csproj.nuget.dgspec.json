@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\ASP.NET PROJECT\\DEV_CARD_ME\\DevCard_MVC\\DevCard_MVC.csproj": {}
+    "D:\\projects\\ASP.NET PROJECT\\MY_DEV_CARD\\DevCard_MVC\\DevCard_MVC.csproj": {}
   },
   "projects": {
-    "D:\\projects\\ASP.NET PROJECT\\DEV_CARD_ME\\DevCard_MVC\\DevCard_MVC.csproj": {
+    "D:\\projects\\ASP.NET PROJECT\\MY_DEV_CARD\\DevCard_MVC\\DevCard_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\ASP.NET PROJECT\\DEV_CARD_ME\\DevCard_MVC\\DevCard_MVC.csproj",
+        "projectUniqueName": "D:\\projects\\ASP.NET PROJECT\\MY_DEV_CARD\\DevCard_MVC\\DevCard_MVC.csproj",
         "projectName": "DevCard_MVC",
-        "projectPath": "D:\\projects\\ASP.NET PROJECT\\DEV_CARD_ME\\DevCard_MVC\\DevCard_MVC.csproj",
+        "projectPath": "D:\\projects\\ASP.NET PROJECT\\MY_DEV_CARD\\DevCard_MVC\\DevCard_MVC.csproj",
         "packagesPath": "C:\\Users\\EL\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\ASP.NET PROJECT\\DEV_CARD_ME\\DevCard_MVC\\obj\\",
+        "outputPath": "D:\\projects\\ASP.NET PROJECT\\MY_DEV_CARD\\DevCard_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

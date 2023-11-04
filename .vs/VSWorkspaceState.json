@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DevCard_MVC",
+    "\\DevCard_MVC\\wwwroot"
   ],
   "PreviewInSolutionExplorer": false
 }
