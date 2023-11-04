@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7akPR1Mh2qLFWkFY+3Ay+IRbkwcztTvywgM8xcuE5OUilQ3mS4ypgRh1QXfhXu9OIft+8YYeFbNgbGeB7mpwA==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\ASP.NET PROJECT\\DEV_CARD_ME\\DevCard_MVC\\DevCard_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
