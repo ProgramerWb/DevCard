@@ -145,3 +145,5 @@ D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razo
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.AssemblyReference.cache
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
