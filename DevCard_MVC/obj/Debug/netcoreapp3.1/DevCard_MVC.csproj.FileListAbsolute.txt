@@ -44,7 +44,6 @@ D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\bin\Debug\netcoreapp3.1\DevC
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.pdb
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.dll
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.pdb
-D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.AssemblyReference.cache
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.GeneratedMSBuildEditorConfig.editorconfig
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfoInputs.cache
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfo.cs
@@ -143,4 +142,6 @@ D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\M
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
-D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
+D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.AssemblyReference.cache
+D:\projects\ASP.NET PROJECT\MY_DEV_CARD\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_LatestArticles.cshtml.g.cs
